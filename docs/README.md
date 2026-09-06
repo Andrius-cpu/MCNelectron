@@ -1,1 +1,1 @@
-User manuals
+User manuals and changelogs
