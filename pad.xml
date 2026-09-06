@@ -24,7 +24,7 @@
     <Program_Version>1.2.7.0</Program_Version>
     <Program_Change_Info>The main improvements in MCNelectron v1.2.7 are the following:
 1. Added more accurate bremsstrahlung cross sections for energies below 30 MeV.
-2. Introduced the capability to simulate multiple particle sources simultaneously.
+2. Introduced the capability to simulate multiple independent particle sources simultaneously.
 3. Added automatic geometry voxelization.
 4. Integrated ENDF/B-VIII.1 data libraries alongside the existing ENDF/B-VII.1 data.
 5. Added Gaussian broadening and coincidence counting for pulse-height tallies.
