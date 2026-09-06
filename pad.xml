@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.00</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Manual</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Vilnius University, Faculty of Physics</Company_Name>
+    <Address_1>Saulėtekio al. 9, Building III</Address_1>
+    <City_Town>Vilnius</City_Town>
+    <State_Province></State_Province>
+    <Zip_Postal_Code>10222</Zip_Postal_Code>
+    <Country>Lithuania</Country>
+    <Company_WebSite_URL>https://www.ff.vu.lt/en</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Andrius</Author_First_Name>
+      <Author_Last_Name>Poškus</Author_Last_Name>
+      <Author_Email>andrius.poskus@ff.vu.lt</Author_Email>
+    </Contact_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>MCNelectron</Program_Name>
+    <Program_Version>1.2.7.0</Program_Version>
+    <Program_Release_Month>09</Program_Release_Month>
+    <Program_Release_Day>06</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Specific_Category>Education</Program_Specific_Category>
+    <Program_Category_Class>Science</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>266570413</File_Size_Bytes>
+    </File_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Monte Carlo simulation, Radiation Transport, Physics, Electron Transport, Photon Transport, High-Energy Physics, Simulation Code</Keywords>
+      <Char_Desc_45>Electron-photon transport Monte Carlo code</Char_Desc_45>
+      <Char_Desc_80>High-energy electron-photon transport Monte Carlo code with Nvidia GPU support</Char_Desc_80>
+      <Char_Desc_250>MCNelectron is a Monte Carlo code for simulating high-energy electron-photon transport. It can use Nvidia GPUs in parallel with the CPU. The front-end called "MCNScript" provides an interface for organizing the files and creating rendering scripts.</Char_Desc_250>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://web.vu.lt/ff/a.poskus/mcnelectron/</Application_Info_URL>
+      <Application_Screenshot_URL>https://web.vu.lt/ff/a.poskus/files/2026/09/MCNelectron_MCNScript.png</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://web.vu.lt/ff/a.poskus/files/2026/09/pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://web.vu.lt/ff/a.poskus/files/2026/09/MCNelectron_MCNScript.part1_.zip</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+</XML_DIZ_INFO>
