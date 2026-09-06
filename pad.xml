@@ -52,7 +52,7 @@
       <Application_XML_File_URL>https://raw.githubusercontent.com/Andrius-cpu/MCNelectron/refs/heads/main/pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://web.vu.lt/ff/a.poskus/files/2026/09/MCNelectron_MCNScript.part1_.zip</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/Andrius-cpu/MCNelectron/releases/download/v1.2.7.0/MCNelectron_MCNScript.exe</Primary_Download_URL>
     </Download_URLs>
   </Web_Info>
 </XML_DIZ_INFO>
