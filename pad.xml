@@ -39,7 +39,7 @@
     <Program_OS_Support>Win10,Win11</Program_OS_Support>
     <Program_Language>English</Program_Language>
     <Program_Specific_Category>Education</Program_Specific_Category>
-    <Program_Category_Class>Science</Program_Category_Class>
+    <Program_Category_Class>Education::Science</Program_Category_Class>
     <File_Info>
       <File_Size_Bytes>267587460</File_Size_Bytes>
     </File_Info>
