@@ -22,7 +22,13 @@
   <Program_Info>
     <Program_Name>MCNelectron</Program_Name>
     <Program_Version>1.2.7.0</Program_Version>
-    <Program_Change_Info>The current release of MCNelectron is an update from version 1.2.6 to version 1.2.7, including bug fixes and several improvements: more accurate bremsstrahlung cross sections for energies below 30 MeV, the ability to use multiple sources, automatic voxelization, ENDF/B-VIII.1 data in addition to the previously-included ENDF/B-VII.1 data, Gaussian broadening and coincidence counting for pulse-height tallies, etc. MCNScript has been updated from version 1.0.5 to version 1.0.6.</Program_Change_Info>
+    <Program_Change_Info>The main improvements in MCNelectron v1.2.7 are the following:
+1. Added more accurate bremsstrahlung cross sections for energies below 30 MeV.
+2. Introduced the capability to simulate multiple particle sources simultaneously.
+3. Added automatic geometry voxelization.
+4. Integrated ENDF/B-VIII.1 data libraries alongside the existing ENDF/B-VII.1 data.
+5. Added Gaussian broadening and coincidence counting for pulse-height tallies.
+6. Updated the MCNScript front-end from version 1.0.5 to version 1.0.6.</Program_Change_Info>
     <Program_Release_Month>09</Program_Release_Month>
     <Program_Release_Day>06</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
