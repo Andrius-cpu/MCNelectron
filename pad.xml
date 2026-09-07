@@ -48,9 +48,9 @@
     <English>
       <Keywords>Monte Carlo simulation, Radiation Transport, Physics, Electron Transport, Photon Transport, High-Energy Physics, Simulation Code</Keywords>
       <Char_Desc_45>Electron-photon transport Monte Carlo code</Char_Desc_45>
-      <Char_Desc_80>High-energy electron-photon transport Monte Carlo code with Nvidia GPU support</Char_Desc_80>
-      <Char_Desc_250>MCNelectron is a Monte Carlo code for simulating high-energy electron-photon transport. It can use Nvidia GPUs in parallel with the CPU. The front-end called "MCNScript" provides an interface for organizing the files and creating rendering scripts.</Char_Desc_250>
-      <Char_Desc_450>MCNelectron is an open-source Monte Carlo code for simulating high-energy electron and photon transport in matter. It supports parallel "hybrid" computations using both the CPU and Nvidia GPUs via CUDA. The distribution package includes MCNScript — a graphical front-end that simplifies simulation workflows by managing command-line entries, organizing input/output files, and generating 3D rendering geometry scripts for BRL-CAD.</Char_Desc_450>
+      <Char_Desc_80>CUDA-enabled ~100 eV to ~1 GeV electron-photon transport Monte Carlo code</Char_Desc_80>
+      <Char_Desc_250>MCNelectron is a Monte Carlo code for simulating electron-photon transport at ~100 eV to ~1 GeV. It can use Nvidia GPUs in parallel with the CPU. The front end MCNScript provides an interface for organizing the files and creating rendering scripts.</Char_Desc_250>
+      <Char_Desc_450>MCNelectron is an open-source Monte Carlo code for simulating low- to intermediate-energy (~100 eV to ~1 GeV) electron and photon transport. It supports parallel "hybrid" computations using both the CPU and Nvidia GPUs via CUDA. The installer includes MCNScript — a graphical front end that simplifies simulation workflows by managing command-line entries, organizing input/output files, and generating 3D rendering geometry scripts for BRL-CAD.</Char_Desc_450>
     </English>
   </Program_Descriptions>
   <Web_Info>
