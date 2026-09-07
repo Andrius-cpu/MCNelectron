@@ -1,6 +1,6 @@
 # MCNelectron
 
-MCNelectron is an open-source Monte Carlo code designed to simulate the transport and interaction of high-energy electrons and photons in matter. Distributed under the GNU General Public License (GPL), the complete software package includes all executables, comprehensive documentation, and the full source code for both MCNelectron and MCNScript. The distribution is packaged as a WinRAR self-extracting archive.
+MCNelectron is an open-source Monte Carlo code designed to simulate the transport and interaction of low- to intermediate-energy (~100 eV to ~1 GeV) electrons and photons in matter. Distributed under the GNU General Public License (GPL), the complete software package includes all executables, comprehensive documentation, and the full source code for both MCNelectron and MCNScript. The distribution is packaged as a WinRAR self-extracting archive.
 
 **Key Components Included**
 1. **Dual Processing Engine Options**
