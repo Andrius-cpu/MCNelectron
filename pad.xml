@@ -67,7 +67,7 @@
     <Application_URLs>
       <Application_Info_URL>https://web.vu.lt/ff/a.poskus/mcnelectron/</Application_Info_URL>
       <Application_Screenshot_URL>https://web.vu.lt/ff/a.poskus/files/2026/09/MCNelectron_MCNScript.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://github.com/Andrius-cpu/MCNelectron/blob/main/MCNScript.ico</Application_Icon_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/Andrius-cpu/MCNelectron/refs/heads/main/MCNScript.ico</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/Andrius-cpu/MCNelectron/refs/heads/main/pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
