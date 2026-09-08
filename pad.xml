@@ -22,8 +22,9 @@
   <Program_Info>
     <Program_Name>MCNelectron</Program_Name>
     <Program_Version>1.2.7.0</Program_Version>
+    <Program_Change_Date>09/06/2026</Program_Change_Date>
     <Program_Change_Info>The main improvements in MCNelectron v1.2.7 are the following:
-1. Added more accurate bremsstrahlung cross sections for energies below 30 MeV.
+1. Added more accurate bremsstrahlung angular distributions for energies below 30 MeV.
 2. Introduced the capability to simulate multiple independent particle sources simultaneously.
 3. Added automatic geometry voxelization.
 4. Integrated ENDF/B-VIII.1 data libraries alongside the existing ENDF/B-VII.1 data.
@@ -53,6 +54,13 @@
       <Char_Desc_80>CUDA-enabled ~100 eV to ~1 GeV electron-photon transport Monte Carlo code</Char_Desc_80>
       <Char_Desc_250>MCNelectron is a Monte Carlo code for simulating electron-photon transport at ~100 eV to ~1 GeV. It can use Nvidia GPUs in parallel with the CPU. The front end MCNScript provides an interface for organizing the files and creating rendering scripts.</Char_Desc_250>
       <Char_Desc_450>MCNelectron is an open-source Monte Carlo code for simulating low- to intermediate-energy (~100 eV to ~1 GeV) electron and photon transport. It supports parallel "hybrid" computations using both the CPU and Nvidia GPUs via CUDA. The installer includes MCNScript — a graphical front end that simplifies simulation workflows by managing command-line entries, organizing input/output files, and generating 3D rendering geometry scripts for BRL-CAD.</Char_Desc_450>
+      <Web_Information_Change_Info>The main improvements in MCNelectron v1.2.7 are the following:
+1. Added more accurate bremsstrahlung angular distributions for energies below 30 MeV.
+2. Introduced the capability to simulate multiple independent particle sources simultaneously.
+3. Added automatic geometry voxelization.
+4. Integrated ENDF/B-VIII.1 data libraries alongside the existing ENDF/B-VII.1 data.
+5. Added Gaussian broadening and coincidence counting for pulse-height tallies.
+6. Updated the MCNScript front-end from version 1.0.5 to version 1.0.6.</Web_Information_Change_Info>
     </English>
   </Program_Descriptions>
   <Web_Info>
